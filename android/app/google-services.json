@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "757136648054",
+    "project_id": "nakia-f4840",
+    "storage_bucket": "nakia-f4840.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757136648054:android:aa1f8663012aab88483c57",
+        "android_client_info": {
+          "package_name": "com.example.nakia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDsN_YgArPtsirgHwCOxELGqcbzlc08k0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
