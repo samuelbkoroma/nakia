@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:nakia/Pages/Auth/Login.dart';
 import 'package:firebase_auth/firebase_auth.dart';
+
 import 'package:nakia/Pages/HomePage.dart';
 
 class SignUpScreen extends StatefulWidget {

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
-import 'package:nakia/Pages/SplashScree.dart';
+import 'package:nakia/Pages/BottomBar.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -18,9 +18,10 @@ class MyApp extends StatelessWidget {
       title: 'Nakia',
       theme: ThemeData(
         useMaterial3: true,
+
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: const SplashScreen(),
+      home: const BottomBar(),
     );
   }
 }
